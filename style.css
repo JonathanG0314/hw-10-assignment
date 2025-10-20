@@ -12,3 +12,84 @@ html {
   line-height: 1.5;
 }
 
+header {
+  width: 100vw;
+  font-size: 12px;
+  text-transform: uppercase;
+  text-align: right;
+  color: #fffffe;
+  background-color: #16161a;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  padding: 8px;
+  letter-spacing: .5px;
+  z-index: 10;
+}
+
+nav a {
+  padding: 0 10px;
+  display: inline;
+  color: black;
+  text-decoration: none;
+}
+
+.site-font {
+  font-weight: 700;
+  float: left;
+}
+
+main {
+  position: relative;
+  top: 80px;
+  width: 500px;
+  margin: 0 0 100px 25px;
+}
+
+h1 {
+  font-size: 30px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .15em;
+  margin-bottom: 5px;
+}
+
+.dead {
+  width: 100%;
+  height: auto;
+}
+
+.jump {
+  width: 90vw;
+  position: sticky;
+  float: right;
+}
+
+.story {
+  margin-top: 20px;
+}
+
+p {
+  text-align: justify;
+  padding: 10px 0;
+}
+
+em {
+  font-style: italic;
+  color: #94a1b2;
+}
+
+a {
+  color: #7f5af0;
+}
+ a:hover {
+   color: #2cb67d;
+   text-decoration: none;
+ }
+
+
+
+
+
+
+
