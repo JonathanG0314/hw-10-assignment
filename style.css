@@ -5,10 +5,10 @@
 }
 
 html {
-  background-color: #16161a;
+  background-color: #0f0e17;
   font-size: 16px;
   font-family: merriweather, serif;
-  color: #fffffe;
+  color: #a7a9be;
   line-height: 1.5;
 }
 
@@ -17,8 +17,8 @@ header {
   font-size: 12px;
   text-transform: uppercase;
   text-align: right;
-  color: #fffffe;
-  background-color: #16161a;
+  color: #0f0e17;
+  background-color: #ff8906;
   position: fixed;
   top: 0px;
   left: 0px;
@@ -76,14 +76,14 @@ p {
 
 em {
   font-style: italic;
-  color: #94a1b2;
+  color: #fffffe;
 }
 
 a {
-  color: #7f5af0;
+  color: #ff8906;
 }
  a:hover {
-   color: #2cb67d;
+   color: #f25f4c;
    text-decoration: none;
  }
 
