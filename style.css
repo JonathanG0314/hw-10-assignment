@@ -17,8 +17,8 @@ header {
   font-size: 12px;
   text-transform: uppercase;
   text-align: right;
-  color: #0f0e17;
-  background-color: #ff8906;
+  color: #7f5af0;
+  background-color: #2cb67d;
   position: fixed;
   top: 0px;
   left: 0px;
@@ -86,11 +86,11 @@ em {
 }
 
 a {
-  color: #ff8906;
+  color: #94a1b2;
 }
 
 a:hover{
-  color: #f25f4c;
+  color: #94a1b2;
   text-decoration: none;
 }
 
