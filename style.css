@@ -3,3 +3,12 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+html {
+  background-color: #16161a
+  font-size: 16px;
+  font-family: merriweather, serif;
+  color: #fffffe;
+  line-height: 1.5;
+}
+
